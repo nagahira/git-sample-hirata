@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+Shota Seki 
+=======
 aaaaaaaaa
 Nagahiro Hirata 
+>>>>>>> develop
 aaaa
